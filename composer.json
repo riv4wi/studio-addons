@@ -7,7 +7,7 @@
         "BotMan",
         "Studio"
     ],
-    "homepage": "http://github.com/brocosan/studio-addons",
+    "homepage": "http://github.com/riv4wi/studio-addons",
     "authors": [
         {
             "name": "Marcel Pociot",
@@ -15,12 +15,12 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^7.2|^8.2",
         "botman/botman": "~2.0 || ~3.0",
         "guzzlehttp/guzzle": "~6.0 || ^7.0.1",
-        "illuminate/support": "^5.5 || ^6.0 || ^7.0 || ^8.0|^9.0",
-        "illuminate/contracts": "^5.5 || ^6.0 || ^7.0 || ^8.0|^9.0",
-        "illuminate/console": "^5.5 || ^6.0 || ^7.0 || ^8.0|^9.0",
+        "illuminate/support": "^5.5 || ^6.0 || ^7.0 || ^8.0|^9.0|10.0",
+        "illuminate/contracts": "^5.5 || ^6.0 || ^7.0 || ^8.0|^9.0|10.0",
+        "illuminate/console": "^5.5 || ^6.0 || ^7.0 || ^8.0|^9.0|10.0",
         "thecodingmachine/discovery": "^1.2"
     },
     "require-dev": {
